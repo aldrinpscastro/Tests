@@ -1,0 +1,1709 @@
+1570175283821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegx1j44"
+*** You are running in headless mode.
+1570175285531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175285532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175285534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175285535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175293868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileredbei"
+*** You are running in headless mode.
+1570175295650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175295651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175295652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175295653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175305385	Marionette	INFO	Listening on port 34075
+1570175305465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175313527	Marionette	INFO	Stopped listening on port 34075
+1570175407099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4XbMT1"
+*** You are running in headless mode.
+1570175409056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175409062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175409065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175409066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175421748	Marionette	INFO	Listening on port 46517
+1570175421780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175431652	Marionette	INFO	Stopped listening on port 46517
+1570175487513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNL4R6f"
+*** You are running in headless mode.
+1570175489192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175489193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175489194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175489196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175497898	Marionette	INFO	Listening on port 39417
+1570175497968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175506265	Marionette	INFO	Stopped listening on port 39417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570175649392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefs064q"
+*** You are running in headless mode.
+1570175652757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175652762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175652763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175652765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175670064	Marionette	INFO	Listening on port 39301
+1570175670274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175686512	Marionette	INFO	Stopped listening on port 39301
+[Parent 23168, Gecko_IOThread] WARNING: pipe error (112): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570175712925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF7QwoX"
+*** You are running in headless mode.
+1570175716394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175716394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175716395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175716396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175733855	Marionette	INFO	Listening on port 36835
+1570175733948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175747581	Marionette	INFO	Stopped listening on port 36835
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+1570175920327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenQ7PMj"
+*** You are running in headless mode.
+1570175923334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570175923335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570175923335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570175923336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570175934544	Marionette	INFO	Listening on port 35427
+1570175934649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570175944523	Marionette	INFO	Stopped listening on port 35427
+[Parent 23809, Gecko_IOThread] WARNING: pipe error (114): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570176232043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP06cmc"
+*** You are running in headless mode.
+1570176234650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176234659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176234660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176234661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176250402	Marionette	INFO	Listening on port 42195
+1570176250821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570176267908	Marionette	INFO	Stopped listening on port 42195
+[Parent 24050, Gecko_IOThread] WARNING: pipe error (116): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570176408325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile51Dgbi"
+*** You are running in headless mode.
+1570176413093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176413098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176413099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176413099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176432657	Marionette	INFO	Listening on port 35113
+1570176432737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570176448891	Marionette	INFO	Stopped listening on port 35113
+1570176582086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVkzHcZ"
+*** You are running in headless mode.
+1570176584075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176584075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176584076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176584077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176593702	Marionette	INFO	Listening on port 36727
+1570176593771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570176603572	Marionette	INFO	Stopped listening on port 36727
+[Parent 24527, Gecko_IOThread] WARNING: pipe error (113): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570176697742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIA8swa"
+*** You are running in headless mode.
+1570176699448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176699449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176699450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176699450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176782692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenrF5Ph"
+*** You are running in headless mode.
+1570176784465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176784465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176784466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176784467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176794039	Marionette	INFO	Listening on port 41205
+1570176794103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570176811653	Marionette	INFO	Stopped listening on port 41205
+[Parent 24795, Gecko_IOThread] WARNING: pipe error (114): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570176883648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDKmBRO"
+*** You are running in headless mode.
+1570176885370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176885371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176885372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176885376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176894442	Marionette	INFO	Listening on port 40119
+1570176894521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570176903527	Marionette	INFO	Stopped listening on port 40119
+[Parent 24998, Gecko_IOThread] WARNING: pipe error (117): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570176986662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevND9hu"
+*** You are running in headless mode.
+1570176988357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570176988358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570176988359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570176988359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570176997612	Marionette	INFO	Listening on port 42099
+1570176997682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570177005588	Marionette	INFO	Stopped listening on port 42099
+[Parent 25173, Gecko_IOThread] WARNING: pipe error (116): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570215885044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHQ3Axu"
+*** You are running in headless mode.
+1570215887463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570215887464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570215887465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570215887465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570215901532	Marionette	INFO	Listening on port 33051
+1570215901595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/pt-br/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570215911236	Marionette	INFO	Stopped listening on port 33051
+1570216311535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHvpqHE"
+*** You are running in headless mode.
+1570216313472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570216313473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570216313474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570216313474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570216323330	Marionette	INFO	Listening on port 40773
+1570216323426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570216332600	Marionette	INFO	Stopped listening on port 40773
+1570216514993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1DPKaR"
+*** You are running in headless mode.
+1570216517300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570216517301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570216517302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570216517302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570216526308	Marionette	INFO	Listening on port 43335
+1570216526385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/es/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570216535284	Marionette	INFO	Stopped listening on port 43335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570217649532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg15t2i"
+*** You are running in headless mode.
+1570217656420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570217656420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570217656421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570217656422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570217673467	Marionette	INFO	Listening on port 33101
+1570217673661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570217709183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFfIjzQ"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 20, in <module>
+    from optparse import OptionParser
+  File "/usr/lib/python3.5/optparse.py", line 76, in <module>
+    import textwrap
+  File "/usr/lib/python3.5/textwrap.py", line 8, in <module>
+    import re
+  File "/usr/lib/python3.5/re.py", line 123, in <module>
+    import sre_compile
+  File "/usr/lib/python3.5/sre_compile.py", line 14, in <module>
+    import sre_parse
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 819, in get_data
+KeyboardInterrupt
+1570217839058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewy23xp"
+*** You are running in headless mode.
+1570217844072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570217844074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570217844075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570217844076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570217863127	Marionette	INFO	Listening on port 37973
+1570217863609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/31451/statm
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570218762322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCzTslJ"
+*** You are running in headless mode.
+1570218765148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570218765149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570218765150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570218765151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570218775627	Marionette	INFO	Listening on port 35937
+1570218775744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570220026398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYH2Baw"
+*** You are running in headless mode.
+1570220032694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570220032695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570220032696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570220032696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570220069015	Marionette	INFO	Listening on port 44721
+1570220075164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32541, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32484, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32467, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570220222669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2u8tOy"
+*** You are running in headless mode.
+1570220232093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570220232094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570220232095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570220232095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570220254211	Marionette	INFO	Listening on port 40691
+1570220254345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570220283865	Marionette	INFO	Stopped listening on port 40691
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32100, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32059, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32030, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570220369725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIyODz0"
+*** You are running in headless mode.
+1570220371304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570220371305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570220371306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570220371306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570220380084	Marionette	INFO	Listening on port 43937
+1570220380163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570220389117	Marionette	INFO	Stopped listening on port 43937
+[Parent 399, Gecko_IOThread] WARNING: pipe error (111): Conexão fechada pela outra ponta: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570220892557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUrmgEn"
+*** You are running in headless mode.
+1570220894178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570220894179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570220894180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570220894180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570220902618	Marionette	INFO	Listening on port 40939
+1570220902714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570220922211	Marionette	INFO	Stopped listening on port 40939
+1570220991303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEXyub4"
+*** You are running in headless mode.
+1570220992925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570220992926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570220992927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570220992927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570221001743	Marionette	INFO	Listening on port 45043
+1570221001765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570221021832	Marionette	INFO	Stopped listening on port 45043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570221120797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefAundQ"
+*** You are running in headless mode.
+1570221363870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3mdtdh"
+*** You are running in headless mode.
+1570221365463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570221365464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570221365465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570221365465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570221374280	Marionette	INFO	Listening on port 46561
+1570221374340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570221388488	Marionette	INFO	Stopped listening on port 46561
+1570221502321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyU14FW"
+*** You are running in headless mode.
+1570221503875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570221503876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570221503877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570221503877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570221512405	Marionette	INFO	Listening on port 37799
+1570221512505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570221533113	Marionette	INFO	Stopped listening on port 37799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570221791272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek2OP7s"
+*** You are running in headless mode.
+1570221792815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570221792815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570221792816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570221792817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570221801378	Marionette	INFO	Listening on port 38319
+1570221801448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570221821019	Marionette	INFO	Stopped listening on port 38319
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570221933722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled5H8Xd"
+*** You are running in headless mode.
+1570221935322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570221935323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570221935324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570221935324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570221943950	Marionette	INFO	Listening on port 40199
+1570221943972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570221952480	Marionette	INFO	Stopped listening on port 40199
+1570222512885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBgrCay"
+*** You are running in headless mode.
+1570222514462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570222514468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570222514469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570222514470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570222523113	Marionette	INFO	Listening on port 39923
+1570222523218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1160: ReferenceError: gapi is not defined
+1570222542522	Marionette	INFO	Stopped listening on port 39923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570222782108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRCgL7f"
+1570222783845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570222783846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570222783847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570222783848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570222793967	Marionette	INFO	Listening on port 39783
+1570222794030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1160: ReferenceError: gapi is not defined
+1570222821162	Marionette	INFO	Stopped listening on port 39783
+1570223274335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilearu7FE"
+*** You are running in headless mode.
+1570223275921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570223275922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570223275923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570223275923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570223284608	Marionette	INFO	Listening on port 40063
+1570223284678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4053, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4008, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3985, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570224252602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelzpfsM"
+*** You are running in headless mode.
+1570224255846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570224255850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570224255851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570224255852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570224274743	Marionette	INFO	Listening on port 36903
+1570224274853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570224303149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570224313566	Marionette	INFO	Stopped listening on port 36903
+1570473443527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeA82LW"
+*** You are running in headless mode.
+1570473451449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570473451450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570473451451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570473451452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570473465679	Marionette	INFO	Listening on port 34171
+1570473465711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570473654422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6veYVe"
+*** You are running in headless mode.
+1570473656638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570473656639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570473656640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570473656641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570473666053	Marionette	INFO	Listening on port 39313
+1570473666163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+1570473684394	Marionette	INFO	Stopped listening on port 39313
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600C0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600C0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1570473909049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen5dODF"
+*** You are running in headless mode.
+1570473912147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570473912155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570473912156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570473912157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570473912246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6LYoq"
+*** You are running in headless mode.
+1570473915288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley6mtzM"
+*** You are running in headless mode.
+1570473916662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570473916662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570473916669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570473916670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570473920187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570473920197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570473920198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570473920201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+[Child 4045, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3945, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4033, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3980, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570474015564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNHRgxx"
+*** You are running in headless mode.
+1570474016651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKIbZim"
+*** You are running in headless mode.
+1570474020429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek4O442"
+*** You are running in headless mode.
+1570474021528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474021528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474021532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474021532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474021540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474021541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474021541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474021542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474024641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474024642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474024643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474024644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474060376	Marionette	INFO	Listening on port 35501
+1570474060376	Marionette	INFO	Listening on port 35809
+1570474060377	Marionette	INFO	Listening on port 37641
+1570474065045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570474065131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570474065149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570474141689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTKvkdj"
+1570474141690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevR06CR"
+*** You are running in headless mode.
+*** You are running in headless mode.
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap_external>", line 81, in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 75, in _path_stat
+NotADirectoryError: [Errno 20] Not a directory: '/usr/bin/gettext/__init__.cpython-35m-x86_64-linux-gnu.so'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 20, in <module>
+    from optparse import OptionParser
+  File "/usr/lib/python3.5/optparse.py", line 89, in <module>
+    from gettext import gettext, ngettext
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 954, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 896, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1139, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1113, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1240, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 89, in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 81, in _path_is_mode_type
+KeyboardInterrupt
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5102, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 4866, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4866, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4785, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5103, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4865, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4786, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570474213669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSL5N9n"
+*** You are running in headless mode.
+1570474216006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474216007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474216011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474216012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474228433	Marionette	INFO	Listening on port 42055
+1570474228539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474241272	Marionette	INFO	Stopped listening on port 42055
+1570474271709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileojFHBg"
+*** You are running in headless mode.
+1570474273436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474273437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474273438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474273438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474283228	Marionette	INFO	Listening on port 43935
+1570474283289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6405, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6343, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6315, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570474300792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile68mywJ"
+*** You are running in headless mode.
+1570474302458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474302459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474302461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474302461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474311808	Marionette	INFO	Listening on port 35075
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6686, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6626, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6596, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570474332401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegG8ac1"
+*** You are running in headless mode.
+1570474334103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474334104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474334105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474334105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474343524	Marionette	INFO	Listening on port 38483
+1570474343575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474363099	Marionette	INFO	Stopped listening on port 38483
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600C0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1570474387197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMHk8CZ"
+*** You are running in headless mode.
+1570474390047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474390048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474390049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474390049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474390848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9KQ6l4"
+*** You are running in headless mode.
+1570474393425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM8HN5Q"
+*** You are running in headless mode.
+1570474395563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474395564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474395565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474395565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474398459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474398474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474398475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474398476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474418997	Marionette	INFO	Listening on port 39437
+1570474419161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570474426813	Marionette	INFO	Listening on port 39937
+1570474427101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570474428996	Marionette	INFO	Listening on port 37703
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474429414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474461953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570474464461	Marionette	INFO	Stopped listening on port 39437
+1570474468077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570474470053	Marionette	INFO	Stopped listening on port 39937
+1570474470274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474479907	Marionette	INFO	Stopped listening on port 37703
+1570474497250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVTsGH4"
+1570474497254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWMqb2y"
+1570474497254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTUnw1Y"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1570474516941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474516941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474516942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474516951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474516955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474516956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474516957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474516957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474516959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474516959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474516960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474516961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+[Child 8532, Chrome_ChildThread] WARNING: pipe error (50): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8532, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8533, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+[Child 8635, Chrome_ChildThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8637, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8531, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570474785010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93Q2Qr"
+*** You are running in headless mode.
+1570474787077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474787078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474787079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474787083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474788645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerD4xYC"
+*** You are running in headless mode.
+1570474791104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqJwCYf"
+*** You are running in headless mode.
+1570474793502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474793502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474793514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474793515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474796242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474796245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474796246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474796247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570474817195	Marionette	INFO	Listening on port 34821
+1570474817435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570474823611	Marionette	INFO	Listening on port 35891
+1570474824046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474825471	Marionette	INFO	Listening on port 43607
+1570474825581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474859784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570474863537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570474866019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-13-masked-warrior-786953/comments, line 1175: ReferenceError: gapi is not defined
+1570474881792	Marionette	INFO	Stopped listening on port 34821
+1570474882155	Marionette	INFO	Stopped listening on port 35891
+1570474884416	Marionette	INFO	Stopped listening on port 43607
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED: 
+1570475156218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM4myfj"
+*** You are running in headless mode.
+1570475157770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoIhHdE"
+*** You are running in headless mode.
+1570475160291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHTtRA"
+*** You are running in headless mode.
+1570475161670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475161671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475161676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475161676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475166074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475166082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475166083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475166083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475169060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475169061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475169062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475169062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475197331	Marionette	INFO	Listening on port 45053
+1570475197583	Marionette	INFO	Listening on port 42049
+1570475201565	Marionette	INFO	Listening on port 32973
+1570475213537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570475220964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570475220967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475283301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/fonts/truetype/msttcorefonts/Verdana.ttf
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/12770/statm
+Exiting due to channel error.
+[Child 12770, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 12636, Chrome_ChildThread] WARNING: pipe error (28): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 12636, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 12636, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475310578	Marionette	INFO	Stopped listening on port 42049
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540008,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1570475359568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Xm3Ue"
+*** You are running in headless mode.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12748, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570475375835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475375862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475375863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475375864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475392166	Marionette	INFO	Listening on port 37889
+1570475392588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475410400	Marionette	INFO	Stopped listening on port 37889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570475433740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyJyUUo"
+*** You are running in headless mode.
+1570475439563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475439569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475439590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475439590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+1570475465298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebl9CWt"
+*** You are running in headless mode.
+1570475467677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475467678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475467679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475467679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475478599	Marionette	INFO	Listening on port 35833
+1570475478701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475504382	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 84: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475510545	Marionette	INFO	Stopped listening on port 35833
+1570475529393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile62D4Es"
+*** You are running in headless mode.
+1570475531160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475531161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475531163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475531164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475540306	Marionette	INFO	Listening on port 43637
+1570475540358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475560559	Marionette	INFO	Stopped listening on port 43637
+1570475578703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHQzz5T"
+*** You are running in headless mode.
+1570475580506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475580507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475580508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475580509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475589650	Marionette	INFO	Listening on port 42669
+1570475589694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475613655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilersxuKD"
+*** You are running in headless mode.
+1570475615654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475615655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475615656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475615657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475629713	Marionette	INFO	Listening on port 42421
+1570475629830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475646589	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475732660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUvCXka"
+*** You are running in headless mode.
+1570475735029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledzTRhK"
+*** You are running in headless mode.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15083, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 15013, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15013, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14977, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14753, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 14687, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14687, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14659, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570475738200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475738200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475738201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475738202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475744730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ZEOCh"
+*** You are running in headless mode.
+1570475748363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTpDNOn"
+*** You are running in headless mode.
+1570475749759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475749760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475749765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475749766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475753594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475753613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475753614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475753614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475759245	Marionette	INFO	Listening on port 35245
+1570475759408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475786700	Marionette	INFO	Listening on port 43771
+1570475786968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570475792965	Marionette	INFO	Listening on port 40909
+1570475793255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475809577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570475832729	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570475835745	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570475860055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMFEI6D"
+1570475860218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1qwOh7"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1570475869026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileemdmmQ"
+*** You are running in headless mode.
+1570475882097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475882098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475882119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475882120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475882232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475882232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475882233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475882234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570475882218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570475882236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570475882237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570475882237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 17055, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 17055, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 17055, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 17055, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 17055, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 17055, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16298, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16062, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-EymEXX/firefox-69.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570646612423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBNhmaY"
+*** You are running in headless mode.
+1570646617568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHoPNow"
+*** You are running in headless mode.
+1570646621062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570646621063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570646621064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570646621064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570646642416	Marionette	INFO	Listening on port 40427
+1570646642556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570647095248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQS0Yr2"
+*** You are running in headless mode.
+1570647101234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570647101235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570647101236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570647101237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570647125759	Marionette	INFO	Listening on port 43505
+1570647128433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570647382064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb0Wxz7"
+*** You are running in headless mode.
+1570647389756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570647389762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570647389763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570647389763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570647416013	Marionette	INFO	Listening on port 42627
+1570647416339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570647446457	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 6688, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 6705, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570647751845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileST5lBL"
+*** You are running in headless mode.
+1570647758432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570647758433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570647758434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570647758434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570647775598	Marionette	INFO	Listening on port 45923
+1570647775649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570647793872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570647802810	Marionette	INFO	Stopped listening on port 45923
+1570647936966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefm1IO9"
+*** You are running in headless mode.
+1570647939498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570647939499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570647939500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570647939501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570647954050	Marionette	INFO	Listening on port 39609
+1570647954137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570647971833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570647980319	Marionette	INFO	Stopped listening on port 39609
+1570648630414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTiAZ4e"
+*** You are running in headless mode.
+1570648633384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570648633385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570648633389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570648633389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570648650246	Marionette	INFO	Listening on port 43709
+1570648650376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570648671786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570648682823	Marionette	INFO	Stopped listening on port 43709
+1570648868876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile07U4k0"
+*** You are running in headless mode.
+1570648871093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570648871094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570648871095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570648871095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570648882140	Marionette	INFO	Listening on port 44079
+1570648882223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570648901223	Marionette	INFO	Stopped listening on port 44079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570649175159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uDrR9"
+*** You are running in headless mode.
+1570649176839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649176839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649176840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649176841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649185949	Marionette	INFO	Listening on port 45481
+1570649185998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8456, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8433, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570649270833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWRW95"
+*** You are running in headless mode.
+1570649272523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649272524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649272527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649272528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649281724	Marionette	INFO	Listening on port 34371
+1570649281788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570649332503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXtVnMc"
+*** You are running in headless mode.
+1570649334700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649334701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649334702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649334702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649346106	Marionette	INFO	Listening on port 34673
+1570649346324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570649370834	Marionette	INFO	Stopped listening on port 34673
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8668, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8621, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8597, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570649679270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegv89fQ"
+*** You are running in headless mode.
+1570649682862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649682862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649682864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649682864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649692718	Marionette	INFO	Listening on port 33377
+1570649692816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570649710395	Marionette	INFO	Stopped listening on port 33377
+[Parent 8995, Gecko_IOThread] WARNING: pipe error (123): Conexão fechada pela outra ponta: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570649750899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDGPHfN"
+*** You are running in headless mode.
+1570649752500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649752500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649752501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649752502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649761123	Marionette	INFO	Listening on port 41355
+1570649761166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570649778081	Marionette	INFO	Stopped listening on port 41355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570649862015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyttY3R"
+*** You are running in headless mode.
+1570649863906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570649863912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570649863913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570649863914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570649876395	Marionette	INFO	Listening on port 42841
+1570649876429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570649898422	Marionette	INFO	Stopped listening on port 42841
+1570650002035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZjVxb6"
+*** You are running in headless mode.
+1570650003822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570650003823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570650003824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570650003824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570650013647	Marionette	INFO	Listening on port 43693
+1570650013721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570650033440	Marionette	INFO	Stopped listening on port 43693
+1570650283388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1pS1Ni"
+*** You are running in headless mode.
+1570650285189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570650285189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570650285190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570650285191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570650295100	Marionette	INFO	Listening on port 43587
+1570650295180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570650309305	Marionette	INFO	Stopped listening on port 43587
+1570651662671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyZmJTX"
+*** You are running in headless mode.
+1570651664564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570651664565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570651664566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570651664566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570651676205	Marionette	INFO	Listening on port 36685
+1570651676268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570651697759	Marionette	INFO	Stopped listening on port 36685
+1570651745512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWicpxU"
+*** You are running in headless mode.
+1570651748082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570651748083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570651748084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570651748084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570651758478	Marionette	INFO	Listening on port 46671
+1570651758520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570651779648	Marionette	INFO	Stopped listening on port 46671
+1570652380388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPa98n"
+*** You are running in headless mode.
+1570652382340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570652382341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570652382342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570652382343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570652392972	Marionette	INFO	Listening on port 38807
+1570652393023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570652414995	Marionette	INFO	Stopped listening on port 38807
+1570652703497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEotJkP"
+*** You are running in headless mode.
+1570652705465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570652705466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570652705467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570652705467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570652781460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMnQq9X"
+*** You are running in headless mode.
+1570652783932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570652783937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570652783938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570652783938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570652797330	Marionette	INFO	Listening on port 44735
+1570652797431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570652814625	Marionette	INFO	Stopped listening on port 44735
+1570652853495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexEEcNS"
+*** You are running in headless mode.
+1570652858843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570652858845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570652858846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570652858851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570652885114	Marionette	INFO	Listening on port 33413
+1570652885232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570652911482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570652923097	Marionette	INFO	Stopped listening on port 33413
+1570653244804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7t9Qnq"
+*** You are running in headless mode.
+1570653250108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570653250109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570653250110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570653250110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570653261782	Marionette	INFO	Listening on port 44519
+1570653261889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570653389248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEbfiTO"
+*** You are running in headless mode.
+1570653397073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570653397087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570653397088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570653397088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570653447945	Marionette	INFO	Listening on port 40305
+1570653448378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570653468724	Marionette	INFO	Stopped listening on port 40305
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_ILLEGAL_VALUE: 
+[Parent 11466, Gecko_IOThread] WARNING: pipe error (57): Conexão fechada pela outra ponta: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570653698785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4fg5yJ"
+*** You are running in headless mode.
+1570653703073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570653703074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570653703075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570653703076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570653715775	Marionette	INFO	Listening on port 46041
+1570653715834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570653734046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570653746100	Marionette	INFO	Stopped listening on port 46041
+1570653910802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletgXIyf"
+*** You are running in headless mode.
+1570653912796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570653912796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570653912798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570653912798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570653921711	Marionette	INFO	Listening on port 33633
+1570653921754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570653939834	Marionette	INFO	Stopped listening on port 33633
+1570654124669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGDdJyz"
+*** You are running in headless mode.
+1570654126408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654126409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654126410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654126410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654135655	Marionette	INFO	Listening on port 35645
+1570654135736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654154878	Marionette	INFO	Stopped listening on port 35645
+1570654247980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF6WsCB"
+*** You are running in headless mode.
+1570654249627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654249628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654249629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654249629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654258713	Marionette	INFO	Listening on port 41897
+1570654258734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654277032	Marionette	INFO	Stopped listening on port 41897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570654356400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelyIe0d"
+*** You are running in headless mode.
+1570654358071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654358071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654358072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654358073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654367237	Marionette	INFO	Listening on port 46259
+1570654367337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570654379226	Marionette	INFO	Stopped listening on port 46259
+1570654516294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHJG08L"
+*** You are running in headless mode.
+1570654518001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654518002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654518003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654518003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654526959	Marionette	INFO	Listening on port 41693
+1570654527028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654544481	Marionette	INFO	Stopped listening on port 41693
+1570654590042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledpE546"
+*** You are running in headless mode.
+1570654591698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654591699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654591700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654591700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654600708	Marionette	INFO	Listening on port 35317
+1570654600782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654619113	Marionette	INFO	Stopped listening on port 35317
+1570654668363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTLW4mA"
+*** You are running in headless mode.
+1570654669990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654669991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654669992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654669992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654678872	Marionette	INFO	Listening on port 46307
+1570654678922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654696901	Marionette	INFO	Stopped listening on port 46307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570654779178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilets2Ruu"
+*** You are running in headless mode.
+1570654780825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570654780826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570654780827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570654780828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570654789830	Marionette	INFO	Listening on port 40259
+1570654789855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570654807566	Marionette	INFO	Stopped listening on port 40259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570655039424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCv2bU"
+*** You are running in headless mode.
+1570655041082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655041083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655041085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655041085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655050115	Marionette	INFO	Listening on port 38747
+1570655050162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570655061432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655066797	Marionette	INFO	Stopped listening on port 38747
+1570655162314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS57Jav"
+*** You are running in headless mode.
+1570655163982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655163983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655163984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655163984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655172893	Marionette	INFO	Listening on port 38069
+1570655172954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655190283	Marionette	INFO	Stopped listening on port 38069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570655285551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTc27xi"
+*** You are running in headless mode.
+1570655287183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655287183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655287184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655287185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655296123	Marionette	INFO	Listening on port 40739
+1570655296187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655315499	Marionette	INFO	Stopped listening on port 40739
+1570655352456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRa6EhD"
+*** You are running in headless mode.
+1570655354101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655354102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655354103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655354103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655363024	Marionette	INFO	Listening on port 34693
+1570655363092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570655374297	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655379923	Marionette	INFO	Stopped listening on port 34693
+1570655639274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNmJPSo"
+1570655646169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655646170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655646171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655646172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655662588	Marionette	INFO	Listening on port 39817
+1570655663131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570655686030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655703502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570655720690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+Exiting due to channel error.
+[Child 14088, Chrome_ChildThread] WARNING: pipe error (31): Conexão fechada pela outra ponta: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 14088, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1570655947909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehIUqwJ"
+*** You are running in headless mode.
+1570655949545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570655949546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570655949547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570655949548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570655958736	Marionette	INFO	Listening on port 41553
+1570655958796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570655986079	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656005491	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14348, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+[Child 14417, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11392, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11347, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11318, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570656292791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerCjg9T"
+*** You are running in headless mode.
+1570656294409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570656294410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570656294412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570656294416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570656309792	Marionette	INFO	Listening on port 44031
+1570656309833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656335099	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14906, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14832, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+[Child 14860, Chrome_ChildThread] WARNING: pipe error (28): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 14860, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570656422159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5n9yYx"
+*** You are running in headless mode.
+1570656424961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570656424963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570656424964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570656424964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570656436040	Marionette	INFO	Listening on port 38959
+1570656436118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656468573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15074, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15005, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 15029, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jcHqPw/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570656557566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Kuwlo"
+*** You are running in headless mode.
+1570656560275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJN1WS0"
+*** You are running in headless mode.
+1570656561943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFGbkZ2"
+*** You are running in headless mode.
+1570656563421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570656563425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570656563427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570656563427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570656566300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570656566305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570656566306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570656566306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570656567152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570656567152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570656567153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570656567162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570656599333	Marionette	INFO	Listening on port 34429
+1570656599517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570656602230	Marionette	INFO	Listening on port 45453
+1570656602423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570656602861	Marionette	INFO	Listening on port 36633
+1570656603058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+1570656641370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570656642994	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570656644659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656693252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570656698508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570656699718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656728385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656753929	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570656753928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1161: ReferenceError: gapi is not defined
+1570656785034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1175: ReferenceError: gapi is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570656799540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
