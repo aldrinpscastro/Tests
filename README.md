@@ -1,2 +1,0 @@
-# Testes
-Códigos de Teste.
