@@ -1707,3 +1707,15 @@ bail@chrome://marionette/content/sync.js:237:64
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1575259334974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGXot6D"
+*** You are running in headless mode.
+1575259341079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575259341083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575259341084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575259341084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575259365942	Marionette	INFO	Listening on port 45677
+1575259366055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.crunchyroll.com/dr-stone/episode-14-master-of-flame-789327/comments, line 1178: ReferenceError: gapi is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
