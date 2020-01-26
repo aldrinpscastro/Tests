@@ -1,121 +1,76 @@
 #!bin/python
 import pygame as pg
+from random import randint
 
-resolution = width, height = 288, 512
-screen = pg.display.set_mode(resolution)
+RESOLUTION = WIDTH, HEIGHT = 288, 512
+SCREEN = pg.display.set_mode(RESOLUTION)
 pg.display.set_caption('FlappyBird')
-clock = pg.time.Clock()
-fps = 30
-gravity = 3
-speed = 2
-weight = 1
-running = True
-angle = 0
+CLOCK = pg.time.Clock()
+FPS = 30
+RUNNING = True
+SPEED = 2
+HEIGHT_GEP_PIPE = 6
+SIZE_GEP_PIPE = 3
 
 class Scenario:
-    def __init__(self, image, x=0, y=0, invert=False):
-        self.x = x
-        self.y = y
-        if not invert:
-            self.image = pg.image.load(image).convert_alpha()
+    def __init__(self, image, posx=0, posy=0 , inverted=False):
+        if inverted:
+            self.image = pg.transform.flip(image, False, True)
         else:
-            self.image = pg.transform.flip(pg.image.load(image).convert_alpha(), False, True)
+            self.image = image
+        self.posx = posx
+        self.posy = posy
 
-    def show_on_screen(self):
-        screen.blit(self.image, (self.x, self.y))
 
-    def move_on_screen(self, x, y=0):
-        self.x -= x
-        self.y = y
-        screen.blit(self.image, (self.x, self.y))
-        screen.blit(self.image, (self.x + width, self.y))
-        if self.x < -width:
-            self.x = 0
+    def render(self):
+        SCREEN.blit(self.image, (self.posx, self.posy))
 
-    def get_rect(self):
-        return (pg.Rect((self.x, self.y, self.image.get_rect()[2], self.image.get_rect()[3])),
-                pg.Rect((self.x + width, self.y, self.image.get_rect()[2], self.image.get_rect()[3])))
+    def render_and_move(self, posx, posy=0):
+        self.posx -= posx
+        self.posy = posy
+        SCREEN.blit(self.image, (self.posx, self.posy))
+        SCREEN.blit(self.image, (self.posx + WIDTH, self.posy))
+        if self.posx < -WIDTH:
+            self.posx = 0
 
-class Bird:
-    def __init__(self, sprite, x=0, y=0):
-        self.x = x
-        self.y = y
-        self.sprite = pg.image.load(sprite).convert_alpha()
-
-    def show_on_screen(self):
-        screen.blit(self.sprite, (self.x, self.y))
-
-    def move_on_screen(self, sprite, x=0, y=0, angle=0):
-        self.x = x
-        self.y = y
-        self.angle = angle
-        if self.angle != 0:
-            self.sprite = pg.transform.rotate(pg.image.load(sprite).convert_alpha(), self.angle)
+class Scenario_pipe:
+    def __init__(self, image, posx=0, posy=0 , inverted=False):
+        if inverted:
+            self.image = pg.transform.flip(image, False, True)
         else:
-            self.sprite = pg.image.load(sprite).convert_alpha()
-        screen.blit(self.sprite, (self.x, self.y))
+            self.image = image
+        self.posx = posx
+        self.posy = posy
 
-    def set_rect(self):
-        return pg.Rect((self.x, self.y, self.sprite.get_rect()[2], self.sprite.get_rect()[3]))
+    def render(self):
+        SCREEN.blit(self.image, (self.posx, self.posy))
 
-background = Scenario('FlapPyBird-master/assets/sprites/background-day.png')
-floor = Scenario('FlapPyBird-master/assets/sprites/base.png')
-pipes_down = Scenario('FlapPyBird-master/assets/sprites/pipe-green.png')
-pipes_up = Scenario('FlapPyBird-master/assets/sprites/pipe-green.png', 0, 0, True)
-BIRD = ['FlapPyBird-master/assets/sprites/bluebird-midflap.png',
-        'FlapPyBird-master/assets/sprites/bluebird-upflap.png',
-        'FlapPyBird-master/assets/sprites/bluebird-downflap.png']
-bird = Bird(BIRD[0])
-posX_bird = (width - pg.image.load(BIRD[0]).get_rect()[2]) / 2
-posY_bird = (height - pg.image.load(BIRD[0]).get_rect()[3]) / 2
-while running:
-    #Detecting key down.
-    for sprite in BIRD:
-        for event in pg.event.get():
+    def render_and_move(self, posx, posy=0):
+        self.posx -= posx
+        self.posy = posy
+        SCREEN.blit(self.image, (self.posx + WIDTH, self.posy))
+        SCREEN.blit(self.image, (self.posx + WIDTH*2, self.posy))
+        if self.posx + WIDTH < -WIDTH:
+            self.posx = -WIDTH
 
-            if event.type == pg.KEYDOWN:
-                if event.key == pg.K_SPACE:
-                    #jumping
-                    markY = posY_bird - 60
-                    angle = 22.5
-                    while posY_bird >= markY:
-                        background.move_on_screen(speed)
-                        floor.move_on_screen(speed * 2, height - 112)
-                        pipes_down.move_on_screen(speed * 2, height - height * (1/3))
-                        pipes_up.move_on_screen(speed * 2, height * -(1/3))
-                        bird.move_on_screen(BIRD[2], posX_bird, posY_bird, angle)
-                        posY_bird -= pg.image.load(sprite).get_rect()[3] / 2
-                        gravity = 3
-                        pg.display.flip()
-                        clock.tick(fps)
-                    angle = 0
-                if event.key == pg.K_ESCAPE:
-                    running = False
+BACKGROUND = pg.image.load('FlapPyBird-master/assets/sprites/background-day.png').convert_alpha()
+FLOOR = pg.image.load('FlapPyBird-master/assets/sprites/base.png').convert_alpha()
+PIPE = pg.image.load('FlapPyBird-master/assets/sprites/pipe-green.png').convert_alpha()
+background = Scenario(BACKGROUND)
+floor = Scenario(FLOOR)
+pipe_down = Scenario_pipe(PIPE)
+pipe_up = Scenario_pipe(PIPE, 0, 0, True)
 
-        #Showing images
-        background.move_on_screen(speed)
-        floor.move_on_screen(speed * 2, height - 112)
-        pipes_down.move_on_screen(speed * 2, height - height * (1/3))
-        pipes_up.move_on_screen(speed * 2, height * -(1/3))
-        bird.move_on_screen(sprite, posX_bird, posY_bird, angle)
-        if angle == 0:
-            angle = -22.5
-            if angle == -22.5:
-                angle = -45
-                if angle == -45:
-                    angle = -67.5
-                    if angle == -67.5:
-                        angle = -90
-        posY_bird += gravity
-        gravity += weight
-
-        #Detecting collisions.
-        if (bird.set_rect().colliderect(pipes_down.get_rect()[1]) == 1 or
-            bird.set_rect().colliderect(pipes_down.get_rect()[0]) == 1 or
-            bird.set_rect().colliderect(pipes_up.get_rect()[1]) == 1 or
-            bird.set_rect().colliderect(pipes_up.get_rect()[0]) == 1 or
-            bird.set_rect().colliderect(floor.get_rect()[1]) == 1 or
-            bird.set_rect().colliderect(floor.get_rect()[0]) == 1):
-            running = False
-        pg.display.flip()
-        clock.tick(fps)
+while RUNNING:
+    for event in pg.event.get():
+        if event.type == pg.QUIT:
+            RUNNING = False
+        if event.type == pg.KEYDOWN:
+            if event.key == pg.K_ESCAPE:
+                RUNNING = False
+    background.render_and_move(SPEED)
+    pipe_down.render_and_move(SPEED, HEIGHT - BACKGROUND.get_rect()[3] * (HEIGHT_GEP_PIPE/12))
+    pipe_up.render_and_move(SPEED, BACKGROUND.get_rect()[3] * -((HEIGHT_GEP_PIPE-SIZE_GEP_PIPE)/12))
+    floor.render_and_move(SPEED, HEIGHT - FLOOR.get_rect()[3])
+    pg.display.flip()
+    CLOCK.tick(FPS)
