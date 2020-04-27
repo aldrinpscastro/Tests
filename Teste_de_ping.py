@@ -6,6 +6,7 @@ if os.sys.platform == 'win32':
 else:
     result = subprocess.check_output("ping -c5 v.vrv.co", shell=True).decode()
 pings = re.findall("time?[=,<].*?ms", result)
+print(pings)
 for i in range(len(pings)):
 	pings[i] = re.sub("time?[=,<]", "", pings[i])
 	if os.sys.platform == 'win32':
