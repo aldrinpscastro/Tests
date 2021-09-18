@@ -1,8 +1,8 @@
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3
 import subprocess
 import re
 
-source_code = subprocess.check_output(['wget', '-q', 'https://www.crunchyroll.com/videos/anime/alpha?group=all', '-O', '-'])
+source_code = subprocess.check_output(['wget', '--user-agent="Mozilla"', '-q', 'https://www.crunchyroll.com/videos/anime/alpha?group=all', '-O', '-'])
 
 source_code = source_code.decode().split('\n')
 

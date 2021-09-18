@@ -6,9 +6,11 @@ for difficulty in range(1,11):
 
     nonce = 1
 
+    bloco = 'Transações' + str(nonce)
+
     qzeros = '0' * difficulty
 
-    hashear = int(sha256(str(nonce).encode()).hexdigest(), 16)
+    hashear = int(sha256(str(bloco).encode()).hexdigest(), 16)
 
     target = int(qzeros + 'ffffff' + '0' * (64 - difficulty - len('ffffff')), 16)
 
@@ -16,14 +18,16 @@ for difficulty in range(1,11):
 
     while hashear > target:
 
-        hashear = int(sha256(str(nonce).encode()).hexdigest(), 16)
+        hashear = int(sha256(str(bloco).encode()).hexdigest(), 16)
 
         nonce += 1
+
+        bloco = 'Transações' + str(nonce)
 
     tfinal = datetime.now().timestamp()
 
     delta = tfinal - tinicial
 
-    hashear = hashear.to_bytes(32, 'big').hex()
+    hashear = hashear.to_bytes(32, 'big').hex() 
 
     print(hashear, nonce, delta)
